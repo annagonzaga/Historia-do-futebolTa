@@ -1,0 +1,19 @@
+*
+{
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: black;
+}
+
+main 
+{
+    color: #fff;
+    width: 800px;
+    margin: auto;
+    border: 4px solid green;
+    height: 900px;
+    padding: 0 1rem;
+}
