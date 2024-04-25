@@ -1,22 +1,32 @@
-body 
+
+body
 {
-background-color: rgb(255, 255, 255);
+    background-color:rgb(128, 126, 126) (104, 255, 104, 0.849);
 }
 main
-{   
-   margin: auto;
-   width: 800px;
-   height: 800px;
-   border-radius: solid black;
+{
+    margin: auto;
+   text-align: center;
    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.VideoTexto
+{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.texto
+{
+  
+    width: 400px;
+    text-align: center;
+
 }
 h1
 {
-    border: 5px solid black;
-    border-radius: 60px;
-    text-align: center;
+    border-radius: 5px solid rgba(0, 0, 0, 0.884);
+    color: #fff;
+    background-color: black;
 }
-img
-{
-    width: 600px;
-}  
