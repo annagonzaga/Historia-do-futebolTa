@@ -1,0 +1,60 @@
+
+body
+{
+    background-color: black;
+
+}
+
+.principal
+{
+    width: 800px;
+    margin: auto;
+    border: 3px solid green;
+    height: 900px;
+   
+}
+.cabecalho
+{
+  display: flex;
+  width: 1px;  
+  
+}
+h1
+{
+  color: white; 
+  background-color: green;
+
+}
+h2
+{
+    color: white;
+}
+
+.banner
+{
+    background-image: url(foto.png); 
+    width: 800px;
+    height: 400px;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button
+{
+    
+    width: 80px;
+    height: 40px;
+}
+
+.NomeData, .emailTelefone
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+
+}
+div
+{
+    color: white;
+}
